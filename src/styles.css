@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.preview {
+  position: relative;
+}
+
+.doily {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.picker-container > * {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.heading--toolbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.heading {
+  margin-right: 1rem;
+}
+
+.button--reset {
+  display: block;
+  background: transparent;
+  color: magenta;
+  border: 1px solid currentColor;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  height: 1.5rem;
+}
