@@ -1,2 +1,3 @@
-# color-array-selector
-Created with CodeSandbox
+# Color Array Selector
+
+A color picker with preview built for react apps
